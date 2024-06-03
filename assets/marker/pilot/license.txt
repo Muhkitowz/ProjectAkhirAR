@@ -1,0 +1,8 @@
+Model Information:
+* title:	Star Wars Lambda Shuttle Pilot (rigged)
+* source:	https://sketchfab.com/3d-models/star-wars-lambda-shuttle-pilot-rigged-829073e7bb9148ddbaad09a29b0eeb92
+* author:	tegnemaskin (https://sketchfab.com/tegnemaskin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Luke Skywalker's Lightsaber V2
+* source:	https://sketchfab.com/3d-models/luke-skywalkers-lightsaber-v2-d7d483e9390d472d9dd1069c09653486
+* author:	owyclif (https://sketchfab.com/owyclif)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

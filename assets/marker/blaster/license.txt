@@ -1,0 +1,8 @@
+Model Information:
+* title:	Star Wars Jawa Ion Blaster
+* source:	https://sketchfab.com/3d-models/star-wars-jawa-ion-blaster-8c937952097240a2b26f2b8bdaf47658
+* author:	tegnemaskin (https://sketchfab.com/tegnemaskin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

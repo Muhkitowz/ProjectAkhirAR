@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Augmented Reality Muhkito Afif</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="./assets/img/logo.png" alt="Logo" class="logo">
+            <h1>Augmented Reality Project</h1>
+        </div>
+    </header>
+    <main>
+        <div id="splash" class="splash">
+            <div id="splash-logo" class="splash-logo"><img src="./assets/img/logo.png" alt="Logo"></div>
+        </div>
+        <div id="main-content" class="hidden container">
+            <section id="dashboard" class="section">
+                <h1>Welcome to Our Project</h1>
+                <div class="grid-container">
+                    <div class="grid-item" onclick="showSection('about')">
+                        <h2>Tentang</h2>
+                        <p>Keterangan singkat tentang projek ini.</p>
+                    </div>
+                    <div class="grid-item" onclick="showSection('guide')">
+                        <h2>Panduan</h2>
+                        <p>Cara penggunaan fitur di website ini.</p>
+                    </div>
+                    <div class="grid-item" onclick="showSection('marker')">
+                        <h2>Marker</h2>
+                        <p>Unduh file PDF yang dibutuhkan.</p>
+                    </div>
+                    <div class="grid-item" onclick="showSection('ar')">
+                        <h2>AR CAM</h2>
+                        <p>Fitur untuk melakukan scan kartu.</p>
+                    </div>
+                </div>
+            </section>
+            <section id="about-section" class="section hidden">
+                <h1>Tentang</h1>
+                <p>Nama saya adalah Muhkito Afif. Ini adalah proyek yang saya kembangkan untuk penggunaan Augmented reality (AR), ini adalah teknologi yang melapisi digital
+                    informasi ke dunia nyata, meningkatkan persepsi kita tentang realitas. Di dalam
+                    Dalam proyek ini, saya telah mengeksplorasi potensi AR untuk menciptakan pengalaman yang imersif dan
+                    pengalaman interaktif. Selami proyek ini untuk melihat bagaimana saya melamar
+                    Teknologi AR dan keterampilan yang saya kembangkan selama perjalanan akademis saya.
+                    Terima kasih telah meluangkan waktu untuk menjelajahi bagian penting saya ini
+                    pengalaman pendidikan.
+            .</p>
+                <div class="button-container">
+                    <button onclick="showSection('dashboard')">Back to Dashboard</button>
+                </div>
+            </section>
+            <section id="guide-section" class="section hidden">
+                <h1>Panduan</h1>
+                <p>Berikut adalah cara menggunakan fitur-fitur di website ini:</p>
+                <ul>
+                    <li>Fitur Tentang: Klik tombol "Tentang" untuk melihat informasi tentang projek.</li>
+                    <li>Fitur Panduan: Klik tombol "Panduan" untuk mengetahui cara menggunakan fitur-fitur di website ini.</li>
+                    <li>Fitur Marker: Klik tombol "Marker" untuk mengunduh file PDF yang diperlukan.</li>
+                    <li>Fitur AR: Klik tombol "AR" untuk menggunakan fitur scan kartu.</li>
+                </ul>
+                <div class="button-container">
+                    <button onclick="showSection('dashboard')">Back to Dashboard</button>
+                </div>
+            </section>
+            <section id="marker-section" class="section hidden">
+                <h1>Marker</h1>
+                <p>Unduh file PDF yang dibutuhkan untuk proyek ini:</p>
+                <a href="path/to/your/pdf.pdf" download>Download PDF</a>
+                <div class="button-container">
+                    <button onclick="showSection('dashboard')">Back to Dashboard</button>
+                </div>
+            </section>
+            <section id="ar-section" class="section hidden">
+                <h1>AR CAM</h1>
+                <p>Gunakan fitur AR untuk melakukan scan kartu.</p>
+                <a href="https://muhkitowz.github.io/ImageTracking/" target="_blank" class="button">Scan Kartu</a>
+                <div class="button-container">
+                    <button onclick="showSection('dashboard')">Back to Dashboard</button>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Augmented Reality Project. All rights reserved. By : Muhkito Afif</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

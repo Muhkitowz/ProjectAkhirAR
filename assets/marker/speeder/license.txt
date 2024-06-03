@@ -1,0 +1,8 @@
+Model Information:
+* title:	BARC Speeder and Trooper
+* source:	https://sketchfab.com/3d-models/barc-speeder-and-trooper-91e66a1da43142cd89e4e53ca75fca08
+* author:	Tigerar1 (https://sketchfab.com/allanromanreyes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
